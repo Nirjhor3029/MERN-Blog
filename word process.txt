@@ -1,0 +1,20 @@
+1. setup project (directory setup & install packages )
+    i.  client (Front-end) (React) 
+    ii. server (Back-end) (Node-Express & MongoDB)
+
+2. connect to the database
+3. setup models
+4. 
+
+
+
+==================================================== Back-end Setup ===========================
+########## index.js
+    1.General Setup
+        1. initialize this app
+        2. setup plugins by app.use or app.set
+    2.Connect to database & Server with port
+    3.routes (root directory)
+
+
+
